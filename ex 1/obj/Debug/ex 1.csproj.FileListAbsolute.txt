@@ -1,0 +1,28 @@
+C:\Users\ЖЕКА\Desktop\Практика\МОДУЛЬ 3\MODULE3\ex 1\bin\Debug\ex 1.exe.config
+C:\Users\ЖЕКА\Desktop\Практика\МОДУЛЬ 3\MODULE3\ex 1\bin\Debug\ex 1.exe
+C:\Users\ЖЕКА\Desktop\Практика\МОДУЛЬ 3\MODULE3\ex 1\bin\Debug\ex 1.pdb
+C:\Users\ЖЕКА\Desktop\Практика\МОДУЛЬ 3\MODULE3\ex 1\obj\Debug\ex 1.csproj.AssemblyReference.cache
+C:\Users\ЖЕКА\Desktop\Практика\МОДУЛЬ 3\MODULE3\ex 1\obj\Debug\MainWindow.baml
+C:\Users\ЖЕКА\Desktop\Практика\МОДУЛЬ 3\MODULE3\ex 1\obj\Debug\MainWindow.g.cs
+C:\Users\ЖЕКА\Desktop\Практика\МОДУЛЬ 3\MODULE3\ex 1\obj\Debug\App.g.cs
+C:\Users\ЖЕКА\Desktop\Практика\МОДУЛЬ 3\MODULE3\ex 1\obj\Debug\ex 1_MarkupCompile.cache
+C:\Users\ЖЕКА\Desktop\Практика\МОДУЛЬ 3\MODULE3\ex 1\obj\Debug\ex 1.g.resources
+C:\Users\ЖЕКА\Desktop\Практика\МОДУЛЬ 3\MODULE3\ex 1\obj\Debug\ex_1.Properties.Resources.resources
+C:\Users\ЖЕКА\Desktop\Практика\МОДУЛЬ 3\MODULE3\ex 1\obj\Debug\ex 1.csproj.GenerateResource.cache
+C:\Users\ЖЕКА\Desktop\Практика\МОДУЛЬ 3\MODULE3\ex 1\obj\Debug\ex 1.csproj.CoreCompileInputs.cache
+C:\Users\ЖЕКА\Desktop\Практика\МОДУЛЬ 3\MODULE3\ex 1\obj\Debug\ex 1.exe
+C:\Users\ЖЕКА\Desktop\Практика\МОДУЛЬ 3\MODULE3\ex 1\obj\Debug\ex 1.pdb
+D:\Лабораторные 3 семестр\Практика\Модуль3\MODULE3\ex 1\bin\Debug\ex 1.exe.config
+D:\Лабораторные 3 семестр\Практика\Модуль3\MODULE3\ex 1\bin\Debug\ex 1.exe
+D:\Лабораторные 3 семестр\Практика\Модуль3\MODULE3\ex 1\bin\Debug\ex 1.pdb
+D:\Лабораторные 3 семестр\Практика\Модуль3\MODULE3\ex 1\obj\Debug\ex 1.csproj.AssemblyReference.cache
+D:\Лабораторные 3 семестр\Практика\Модуль3\MODULE3\ex 1\obj\Debug\MainWindow.baml
+D:\Лабораторные 3 семестр\Практика\Модуль3\MODULE3\ex 1\obj\Debug\MainWindow.g.cs
+D:\Лабораторные 3 семестр\Практика\Модуль3\MODULE3\ex 1\obj\Debug\App.g.cs
+D:\Лабораторные 3 семестр\Практика\Модуль3\MODULE3\ex 1\obj\Debug\ex 1_MarkupCompile.cache
+D:\Лабораторные 3 семестр\Практика\Модуль3\MODULE3\ex 1\obj\Debug\ex 1.g.resources
+D:\Лабораторные 3 семестр\Практика\Модуль3\MODULE3\ex 1\obj\Debug\ex_1.Properties.Resources.resources
+D:\Лабораторные 3 семестр\Практика\Модуль3\MODULE3\ex 1\obj\Debug\ex 1.csproj.GenerateResource.cache
+D:\Лабораторные 3 семестр\Практика\Модуль3\MODULE3\ex 1\obj\Debug\ex 1.csproj.CoreCompileInputs.cache
+D:\Лабораторные 3 семестр\Практика\Модуль3\MODULE3\ex 1\obj\Debug\ex 1.exe
+D:\Лабораторные 3 семестр\Практика\Модуль3\MODULE3\ex 1\obj\Debug\ex 1.pdb
